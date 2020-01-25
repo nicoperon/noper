@@ -1,0 +1,28 @@
+p {
+    color: black;
+  }
+  
+  .flex-grid {
+    color: white;
+    display: flex;
+    margin: auto -1rem 1rem;
+  }
+  
+  .col {
+    background-color: white;
+    box-shadow: 0 0 20px rgba(0,0,0,.05);
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+    padding: 1rem;
+  }
+  
+  .sidebar {
+    flex: 2;
+  }
+  
+  .main {
+    flex: 2;
+  }
+.container{
+    max-width: 100%!important;
+}

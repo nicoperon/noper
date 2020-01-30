@@ -1,0 +1,28 @@
+{
+    "name": "Gestion rdv",
+    "short_name": "RAIE CREATION",
+    "icons": 
+  [{
+      "src": "asset/favicon-128x128.png",
+        "sizes": "128x128",
+        "type": "image/png"
+      }, {
+        "src": "asset/favicon-144x144.png",
+        "sizes": "144x144",
+        "type": "image/png"
+      }, {
+        "src": "asset/favicon-152x152.png",
+        "sizes": "152x152",
+        "type": "image/png"
+      }, {
+        "src": "asset/favicon-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }],
+  
+    "lang": "fr",
+    "start_url": "https://la-raie-creation.noperweb.fr/",
+    "display": "standalone",
+    "background_color": "white",
+    "theme_color": "white"
+  }
